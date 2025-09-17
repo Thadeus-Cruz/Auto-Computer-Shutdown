@@ -1,0 +1,8 @@
+[2025-09-17 12:53:08] Shutdown requested by: IP=192.168.1.117, Host=Thadeus_Cruz, MAC=f4:
+[2025-09-17 12:53:48] Shutdown requested by: IP=192.168.1.114, Host=ABISHEK, MAC=34:
+[2025-09-17 12:54:44] Shutdown requested by: IP=192.168.1.113, Host=MAC-88174B, MAC=06:
+[2025-09-17 12:58:05] Shutdown requested by: IP=192.168.1.113, Host=MAC-88174B, MAC=06:
+[2025-09-17 13:06:50] Shutdown requested by: IP=192.168.1.113, Host=MAC-88174B, MAC=06:
+[2025-09-17 13:09:28] Shutdown requested by: IP=192.168.1.113, Host=MAC-88174B, MAC=06:
+[2025-09-17 13:10:02] Shutdown requested by: IP=192.168.1.113, Host=MAC-88174B, MAC=06:
+[2025-09-17 13:12:09] Shutdown requested by: IP=192.168.1.113, Host=MAC-88174B, MAC=06:
